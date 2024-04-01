@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://www.cafeetv.com/</loc>
     <lastmod>2021-02-13T22:03:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://www.cafeetv.com/posts/</loc>
     <lastmod>2021-02-13T22:03:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/the-lonely-orbit-solidao-celulares-e-satelites/</loc>
+    <loc>https://www.cafeetv.com/posts/the-lonely-orbit-solidao-celulares-e-satelites/</loc>
     <lastmod>2021-02-13T22:03:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://www.cafeetv.com/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://www.cafeetv.com/tags/</loc>
   </url>
 </urlset>

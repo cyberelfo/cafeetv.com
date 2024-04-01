@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Café &amp; TV</title>
-    <link>https://example.org/posts/</link>
+    <link>https://www.cafeetv.com/posts/</link>
     <description>Recent content in Posts on Café &amp; TV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Feb 2021 22:03:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.cafeetv.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Lonely Orbit Solidao Celulares E Satelites</title>
-      <link>https://example.org/posts/the-lonely-orbit-solidao-celulares-e-satelites/</link>
+      <link>https://www.cafeetv.com/posts/the-lonely-orbit-solidao-celulares-e-satelites/</link>
       <pubDate>Sat, 13 Feb 2021 22:03:00 +0000</pubDate>
-      <guid>https://example.org/posts/the-lonely-orbit-solidao-celulares-e-satelites/</guid>
+      <guid>https://www.cafeetv.com/posts/the-lonely-orbit-solidao-celulares-e-satelites/</guid>
       <description>&#xA;Saindo para o emprego dos seus sonhos, um técnico de satélite mantém a solidão sob controle constantemente enviando mensagens de texto para seus velhos amigos. Depois de negligenciar suas funções, um satélite sai de sua órbita, o que causa o colapso da rede mundial.&#xA;Belo curta de Frederic Siegel e Benjamin Morard.&#xA;Direção: Frederic Siegel e Benjamin Morard Música: Luc Gut Produção: Team Tumult Suiça, 2019 </description>
     </item>
   </channel>
