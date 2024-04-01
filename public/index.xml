@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Café &amp; TV</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Café &amp; TV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Feb 2021 22:03:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Lonely Orbit Solidao Celulares E Satelites</title>
+      <link>http://localhost:1313/posts/the-lonely-orbit-solidao-celulares-e-satelites/</link>
+      <pubDate>Sat, 13 Feb 2021 22:03:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-lonely-orbit-solidao-celulares-e-satelites/</guid>
+      <description>&#xA;Saindo para o emprego dos seus sonhos, um técnico de satélite mantém a solidão sob controle constantemente enviando mensagens de texto para seus velhos amigos. Depois de negligenciar suas funções, um satélite sai de sua órbita, o que causa o colapso da rede mundial.&#xA;Belo curta de Frederic Siegel e Benjamin Morard.&#xA;Direção: Frederic Siegel e Benjamin Morard Música: Luc Gut Produção: Team Tumult Suiça, 2019 </description>
+    </item>
   </channel>
 </rss>
